@@ -1,1 +1,1 @@
-# Android-JOON_KYUNG
+# 심화스터디 연습용 리포지토리
